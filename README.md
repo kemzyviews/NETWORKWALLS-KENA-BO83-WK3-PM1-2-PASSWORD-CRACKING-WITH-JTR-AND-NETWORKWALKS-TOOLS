@@ -29,10 +29,7 @@ Both PDF files were provided by the Networkwalks program specifically for this l
 ### Result
 - **Cracked password:** `password1`
 - **Flag captured:** `nw{networkwalks_persistence_jtr_270521}`
-
-![Hash value extracted](Hash%20value.png)
-![Password cracker cracking the hash](password%20cracker.png)
-![Flag captured](flag%20captured.png)
+   ![Locked PDF 1](Passwd%20pdf%201.png)
 
 ## Part 2: W3-PM2 — Password Cracking with Networkwalks Tools
 **Tools:** Networkwalks Hash Calculator, Networkwalks Password Cracker (both browser-based, no install)
@@ -48,10 +45,8 @@ Both PDF files were provided by the Networkwalks program specifically for this l
 
 ### Result
 - **Cracked password:** `password1`
-- **Flag captured:** `nw{cybersecurity_flag_captured_2608}`
+- ![Locked PDF 2](Passwd%20pdf%202.png)
 
-![Hash calculator extracting the hash](Hash%20calculator.png)
-![Capture the flag result](capture%20the%20flag.png)
 
 ## Comparison: JTR/Johnny vs Networkwalks Tools
 | | JTR + Johnny | Networkwalks Tools |
